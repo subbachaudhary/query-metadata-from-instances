@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: third-task/third-assign.js
+  checksum: f2cb39d254d3316acea92571bc2aa6a3d9f78dba0cd318d2f35941d973eb49b5
+version: ""
